@@ -16,6 +16,7 @@ Parts of methods for model evaluation:
 
 ## Project Structure
 STA302/
+```
 │── README.md ← You are here
 │── proposal.pdf ← Research proposal
 │── final_report.pdf ← Final written report
@@ -23,7 +24,7 @@ STA302/
 │ └── QS_2025.csv ← QS World University Rankings dataset
 │── code/
 │ ├── STA302_FINAL_CODE__.Rmd ← Final analysis in R Markdown
-
+```
 ---
 
 ## Dataset
@@ -59,6 +60,4 @@ The dataset is already cleaned and stored in:
 - International Student Ratio and Faculty Student Ratio are not significant, meaning diversity and class size do not meaningfully influence reputation once other factors are considered.
 
 ---
-
-### ⭐ If you like this analysis, feel free to star this repository!
 
